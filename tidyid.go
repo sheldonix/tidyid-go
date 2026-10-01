@@ -21,7 +21,7 @@ const (
 	MaxLength = 256
 
 	// Version is the TidyID Go package version.
-	Version = "2.1.0"
+	Version = "2.1.1"
 
 	digitAlphabetBits = 3 // len(Digits) is 8, so 8^n is a left shift by 3n.
 )
