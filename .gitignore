@@ -1,0 +1,6 @@
+/tidyid
+/tidyid.exe
+/coverage.out
+*.prof
+/.tmp-*
+/.docs/
