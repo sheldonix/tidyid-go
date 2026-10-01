@@ -1,8 +1,12 @@
-# TidyID
+<p align="center">
+  <img src="docs/media/logo-128.png" alt="TidyID" height="64">
+</p>
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/sheldonix/tidyid-go/v2.svg)](https://pkg.go.dev/github.com/sheldonix/tidyid-go/v2)
-[![Go](https://img.shields.io/badge/Go-1.24%2B-00ADD8.svg?logo=go&logoColor=white)](https://go.dev/)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sheldonix/tidyid-go/blob/main/LICENSE)
+<p align="center">
+  <a href="https://pkg.go.dev/github.com/sheldonix/tidyid-go/v2"><img src="https://pkg.go.dev/badge/github.com/sheldonix/tidyid-go/v2.svg" alt="Go Reference"></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-1.24%2B-00ADD8.svg?logo=go&amp;logoColor=white" alt="Go"></a>
+  <a href="https://github.com/sheldonix/tidyid-go/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
+</p>
 
 A tiny, secure, and human-friendly ID generator for Go.
 
